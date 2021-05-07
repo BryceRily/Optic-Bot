@@ -1,0 +1,19 @@
+{
+  "name": "optic-bot",
+  "version": "1.0.0",
+  "description": "The Offical Team Optic Discord Bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BryceRily",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "random-puppy": "^1.1.0",
+    "reconlx": "^1.2.41",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0"
+  }
+}
